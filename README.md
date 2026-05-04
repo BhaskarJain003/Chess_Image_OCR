@@ -38,7 +38,7 @@ Lichess analysis URL:
 
 ## Current status
 
-Honestly, it's not quite working yet. The VLM struggles to get a reliable read of the board — piece misidentification is common enough that the output FEN often doesn't match the actual position. Screenshots fare better than physical board photos, but even then it's inconsistent. Going to keep playing around with this: better prompting, maybe preprocessing the image to isolate the board first, or trying different models. More to come.
+Digital board screenshots work fine. Physical boards are a different story — piece misidentification is common enough that the output FEN often doesn't match the actual position. Going to keep playing around with this: better prompting, maybe preprocessing the image to isolate the board first, or trying different models. More to come.
 
 ## What I learned
 
