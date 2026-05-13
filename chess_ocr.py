@@ -52,7 +52,7 @@ FEN: <piece_placement_only>
 Do not include turn, castling, en passant, or move counters -- just the piece placement field.
 """
 
-DEFAULT_MODEL = "gemini-2.5-flash"
+DEFAULT_MODEL = "gemini-3-flash-preview"
 
 
 def image_to_fen(image_path, turn="w", model=DEFAULT_MODEL):

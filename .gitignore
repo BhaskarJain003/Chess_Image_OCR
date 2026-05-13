@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local ChessCog dataset (large; download separately)
+Data_ChessCog/
